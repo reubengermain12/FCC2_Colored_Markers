@@ -19,7 +19,7 @@ h1 {
   );
 }
 .green {
-  background-color: #007f00;
+  background: #007f00;
 }
 .blue {
   background-color: hsl(240, 100%, 50%);
